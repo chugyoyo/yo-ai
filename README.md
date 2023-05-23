@@ -1,13 +1,13 @@
-# dml
-Distributed Machine Learning
+## yo-ai
 
-:lock:
-AI consumes a lot of resources, and the training process of the model is all black box.
+:dart: This project attempts to
 
-:unlock:
-This project attempts to distribute, transparent, and standardize the training of AI. 
+- distribute
+- transparent
+- distributed
+
+the training of AI. 
 
 If you also want to contribute to the progress of AI, welcome to join the development of this project.
-~
 
-:rocket:
+:rocket: ~
